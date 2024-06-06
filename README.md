@@ -67,6 +67,10 @@ Implement the following methods:
 
 These questions guide the development and testing of the banking system application, incorporating OOP principles, file handling, and GUI integration.
 
+## Class Diagram
+
+![classDiagram](https://github.com/adarsh-fxz/Banking-System/assets/116485356/b82ac4e2-a5df-4e95-ac5c-e5b0de6f48ba)
+
 ## Usage
 
 ### Reading from CSV
